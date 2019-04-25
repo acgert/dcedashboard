@@ -6,12 +6,12 @@
   "websites": [
     {
       "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=B24FA451-B05F-E911-A953-000D3A3B9B3D&dashboardType=1030",
-      "duration": 10,
+      "duration": 20,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=845123F5-BA66-E911-A955-000D3A3B9316&dashboardType=1030",
-      "duration": 10,
+      "duration": 20,
       "tabReloadIntervalSeconds": 15
     }
   ]
