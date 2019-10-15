@@ -1,6 +1,6 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
+  "fullscreen": true,
   "autoStart": false,
   "lazyLoadTabs": false,
   "websites": [
@@ -16,6 +16,11 @@
     },
 	{
       "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=69534FB2-4F6B-E911-A956-000D3A3B9774&dashboardType=1030",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+	{
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EWTn3P7OuxxDuV_Jwm2X9xIBgWworlLU7neGz8OFqqz5mQ?e=ImELsu",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     }
