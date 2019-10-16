@@ -4,44 +4,79 @@
   "autoStart": true,
   "lazyLoadTabs": true,
   "websites": [
-    {
+      {
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EfP7lNZtyARCq1CAUtBbF0IBchZGRQXomKAUmCmGUzOwRw?e=RbG0Yb",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+	  },
+	  {
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/ES-76KPjdAxCpAFA8YKEK6oBzXX00KTdGlYyen_e482yTQ?e=Cfb8y7",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },
+	    {
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/ETqfELMdhhJAl0d27CGGpb8Bxo_C2_LE3ysLggyoYwZE_w?e=ctnbhm",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },	
+    	   {
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EZqaPnuyq99EtFvJM7L1u8QBZHCD7Ke08YNegn1lpCiHbA?e=hsVlnY",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },
+	{
       "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=B24FA451-B05F-E911-A953-000D3A3B9B3D&dashboardType=1030",
       "duration": 15,
       "tabReloadIntervalSeconds": 60
     },
-    {
-      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EfcRa7EfpR5Mm1zMEDi-NgQBP-NrNEe9RKid2KxBJbdxiA?e=8605CH",
+	  {
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/Eexyu3JYFk1GvkrOigdnYG0BADuiEk_tOjMhVUaYj4W_og?e=rVzZff",
       "duration": 5,
       "tabReloadIntervalSeconds": 60
-    },	  
-    {
+    },
+		  {
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/Edird_ibSHxBlpGh6Esci0ABkJRnQiDBPyNh7EnInWF5ng?e=Ce3Bb9",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },
+	{
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EfcRa7EfpR5Mm1zMEDi-NgQBP-NrNEe9RKid2KxBJbdxiA?e=MFpAjw",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },
+	{
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/ERowFqquDC5BtORUHuqJYWABkFXf7i7fKRUoqCgpGG-a0Q?e=KdlngO",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },
+	 {
       "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=845123F5-BA66-E911-A955-000D3A3B9316&dashboardType=1030",
       "duration": 15,
       "tabReloadIntervalSeconds": 60
     },
-	   {
-      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EeQD8_sfEw1HhyRbYjIz5qEBB4IQvwvMnLyIXN0g-OLInw?e=qO4D9h",
+	{
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/Eaf1kI2tBC5Jg1LeGa7gOXUByct90ZIVxmETzba7XW9tzA?e=h6fO9K",
       "duration": 5,
       "tabReloadIntervalSeconds": 60
-    },	
-	  {
+    },
+	{
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EXA5TtzHY85BnsZOBNBCgxoBI52EgAvrfU8DPTUTV8eOyA?e=BEFtVI",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },
+		{
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/Edj6yfrs4X5Okr3LJY54S-MBdwiPWiNESeKkZiX0L_Cp8w?e=67fVtd",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },
+	{
+      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EeQD8_sfEw1HhyRbYjIz5qEBB4IQvwvMnLyIXN0g-OLInw?e=hAok3x",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 60
+    },
+	{
       "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=69534FB2-4F6B-E911-A956-000D3A3B9774&dashboardType=1030",
       "duration": 15,
-      "tabReloadIntervalSeconds": 60
-    },
-	{
-      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/EWTn3P7OuxxDuV_Jwm2X9xIBgWworlLU7neGz8OFqqz5mQ?e=ImELsu",
-      "duration": 5,
-      "tabReloadIntervalSeconds": 60
-    },
-	{
-      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/Edird_ibSHxBlpGh6Esci0ABkJRnQiDBPyNh7EnInWF5ng?e=7fPcpy",
-      "duration": 5,
-      "tabReloadIntervalSeconds": 60
-    },
-	  {
-      "url": "https://dcesolarllc-my.sharepoint.com/:i:/g/personal/agerstenbacher_dcesolar_com/ETqfELMdhhJAl0d27CGGpb8Bxo_C2_LE3ysLggyoYwZE_w?e=Wgtgdc",
-      "duration": 5,
       "tabReloadIntervalSeconds": 60
     }
   ]
