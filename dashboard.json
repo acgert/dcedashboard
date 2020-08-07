@@ -3,80 +3,30 @@
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": true,
-  "websites": [
-      {
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/1B%20Customer%20Satisfaction.jpg",
-      "duration": 8,
+ "websites": [
+    {
+      "url": "file:///C:/Dashboard/groundmount.jpg",
+      "duration": 10,
       "tabReloadIntervalSeconds": 60
-	  },
-	  {
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/2%20Believe%20-%20Theodore_Roosevelt1.jpg",
-      "duration": 8,
+    },
+    {
+      "url": "file:///C:/Dashboard/rooftop.jpg",
+      "duration": 10,
       "tabReloadIntervalSeconds": 60
     },
 	    {
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/2%20Perseverance.jpg",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },	
-    	   {
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/3A%20Customer%20Experience.jpg",
-      "duration": 8,
+      "url": "file:///C:/Dashboard/announcements.jpg",
+      "duration": 10,
       "tabReloadIntervalSeconds": 60
     },
-	{
-      "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=B24FA451-B05F-E911-A953-000D3A3B9B3D&dashboardType=1030",
-      "duration": 20,
+	    {
+      "url": "file:///C:/Dashboard/disc.jpg",
+      "duration": 10,
       "tabReloadIntervalSeconds": 60
     },
-	  {
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/4%20hand-of-help-psycho-shadow.jpg",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },
-		  {
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/5%20Focus%20Pic.jpg",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },
-	{
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/6%20Never%20give%20up.jpg",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },
-	{
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/7%20Customer%20Focus%202.jpg",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },
-	 {
-      "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=845123F5-BA66-E911-A955-000D3A3B9316&dashboardType=1030",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 60
-    },
-	{
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/8A%20Perseverance.jpg",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },
-	{
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/9%20Customer%20Satisfaction.jpg",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },
-		{
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/9A%20Success%20-%20Colin%20Powell.png",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },
-	{
-      "url": "https://dcesolarllc-my.sharepoint.com/personal/agerstenbacher_dcesolar_com/Documents/Customers%20FES/10%20Team.jpg",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 60
-    },
-	{
-      "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=69534FB2-4F6B-E911-A956-000D3A3B9774&dashboardType=1030",
-      "duration": 20,
+		    {
+      "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=EC2F1046-BBD8-EA11-A813-000D3A3B36CC&dashboardType=1030",
+      "duration": 15,
       "tabReloadIntervalSeconds": 60
     }
   ]
