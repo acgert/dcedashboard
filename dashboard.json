@@ -5,7 +5,7 @@
   "lazyLoadTabs": true,
  "websites": [
     		    {
-      "url": "https://www.youtube-nocookie.com/embed/sss9-TLzeV0?autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&playlist=sss9-TLzeV0",
+      "url": "file:///C:/Dashboard/DCE.webm",
       "duration": 110,
       "tabReloadIntervalSeconds": 120
     },
