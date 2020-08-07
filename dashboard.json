@@ -4,30 +4,35 @@
   "autoStart": true,
   "lazyLoadTabs": true,
  "websites": [
-    {
+    		    {
+      "url": "https://www.youtube-nocookie.com/embed/sss9-TLzeV0?autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&playlist=sss9-TLzeV0",
+      "duration": 110,
+      "tabReloadIntervalSeconds": 120
+    },
+	{
       "url": "file:///C:/Dashboard/groundmount.jpg",
       "duration": 10,
-      "tabReloadIntervalSeconds": 60
+      "tabReloadIntervalSeconds": 15
     },
     {
       "url": "file:///C:/Dashboard/rooftop.jpg",
       "duration": 10,
-      "tabReloadIntervalSeconds": 60
+      "tabReloadIntervalSeconds": 15
     },
 	    {
       "url": "file:///C:/Dashboard/announcements.jpg",
       "duration": 10,
-      "tabReloadIntervalSeconds": 60
+      "tabReloadIntervalSeconds": 15
     },
 	    {
       "url": "file:///C:/Dashboard/disc.jpg",
       "duration": 10,
-      "tabReloadIntervalSeconds": 60
+      "tabReloadIntervalSeconds": 15
     },
 		    {
       "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=EC2F1046-BBD8-EA11-A813-000D3A3B36CC&dashboardType=1030",
-      "duration": 15,
-      "tabReloadIntervalSeconds": 60
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
     }
   ]
 }
