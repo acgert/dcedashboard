@@ -3,29 +3,69 @@
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": true,
- "websites": [
+  "websites": [
     		    {
       "url": "file:///C:/Dashboard/DCE.webm",
       "duration": 110,
       "tabReloadIntervalSeconds": 120
     },
 	{
-      "url": "file:///C:/Dashboard/groundmount.jpg",
+      "url": "file:///C:/Dashboard/Slide1.jpg",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
-    {
-      "url": "file:///C:/Dashboard/rooftop.jpg",
+	{
+      "url": "file:///C:/Dashboard/Slide2.jpg",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
-	    {
-      "url": "file:///C:/Dashboard/announcements.jpg",
+	{
+      "url": "file:///C:/Dashboard/Slide3.jpg",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
-	    {
-      "url": "file:///C:/Dashboard/disc.jpg",
+	{
+      "url": "file:///C:/Dashboard/Slide4.jpg",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+		{
+      "url": "file:///C:/Dashboard/Slide5.jpg",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+			{
+      "url": "file:///C:/Dashboard/Slide6.jpg",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+			{
+      "url": "file:///C:/Dashboard/Slide7.jpg",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+			{
+      "url": "file:///C:/Dashboard/Slide8.jpg",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+			{
+      "url": "file:///C:/Dashboard/Slide9.jpg",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+			{
+      "url": "file:///C:/Dashboard/Slide10.jpg",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+			{
+      "url": "file:///C:/Dashboard/Slide11.jpg",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+			{
+      "url": "file:///C:/Dashboard/Slide12.jpg",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
