@@ -69,6 +69,11 @@
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
+			{
+      "url": "file:///C:/Dashboard/Slide13.JPG",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
 		    {
       "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=EC2F1046-BBD8-EA11-A813-000D3A3B36CC&dashboardType=1030",
       "duration": 10,
