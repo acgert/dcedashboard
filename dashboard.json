@@ -5,59 +5,14 @@
   "lazyLoadTabs": true,
   "websites": [
     		    {
-      "url": "file:///C:/Dashboard/DCE.webm",
-      "duration": 110,
-      "tabReloadIntervalSeconds": 120
+      "url": "file:///C:/Dashboard/Happy birthday.mp4",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 150
     },
 	{
-      "url": "file:///C:/Dashboard/Slide1.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-	{
-      "url": "file:///C:/Dashboard/Slide2.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-	{
-      "url": "file:///C:/Dashboard/Slide3.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-	{
-      "url": "file:///C:/Dashboard/Slide4.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-		{
-      "url": "file:///C:/Dashboard/Slide5.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-			{
-      "url": "file:///C:/Dashboard/Slide6.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-			{
-      "url": "file:///C:/Dashboard/Slide7.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-			{
-      "url": "file:///C:/Dashboard/Slide8.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-			{
-      "url": "file:///C:/Dashboard/Slide9.JPG",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-		    {
-      "url": "https://dcesolarllc.crm.dynamics.com/dashboards/dashboard.aspx?dashboardId=EC2F1046-BBD8-EA11-A813-000D3A3B36CC&dashboardType=1030",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "url": "file:///C:/Dashboard/Project Highlight.mp4",
+      "duration": 37,
+      "tabReloadIntervalSeconds": 220
     }
   ]
 }
